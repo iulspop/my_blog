@@ -1,7 +1,7 @@
 'use strict';
 
 module.exports = {
-  url: 'https://iuliupop.com',
+  url: 'https://iulspop.dev',
   pathPrefix: '/',
   title: 'Blog by Iuliu Pop',
   subtitle: 'Learning software engineering in the open.',
