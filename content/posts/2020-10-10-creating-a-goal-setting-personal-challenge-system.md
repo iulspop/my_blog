@@ -19,6 +19,8 @@ They did 500 hours of practice/studying in 60 days or 8 hours and 20 minutes a d
 So, I asked myself if I could the same thing and drew up some routines that would accomplish that.
 At first it felt it wasn't feasible, that I shouldreduce the time to 7 h 30 min to give more rest. But, after experimenting with different routines, I found 8 h 15 min a day to be feasible. Here's the schedule:
 
+![my current default schedule](/media/default-routine.png "The routine I will try.")
+
 I also learned from my experimentation, that paying attention to hours and minutes is a perverse insentive. By measuring time, I'm not paying attention to the outcome of my focused sessions. Because of this undue attention to time, I'm stunting what I could accomplish if I focused on outcome and pushed myself to achieve an ambitious one.
 Also, there's a drawback of focusing on time measurement particular to my temperament. I get sucked up in thoughts about what does and doesn't count as work time, and how I can prove to others I'm actually doing the time I'm saying I'm doing. That really drains my energy and is completely useless.
 So, I kept looking for another mechanism to push myself beyond my current abilities and accomplish something I didn't believe I could.
