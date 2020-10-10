@@ -3,7 +3,7 @@ template: post
 title: How I started a Coding Dojo / Mob Programming Meetup
 slug: /started-a-coding-dojo
 socialImage: /media/windows-krwy72tkb0y-unsplash.jpg
-draft: true
+draft: false
 date: 2020-09-28T14:32:14.772Z
 description: I stumbled into starting a coding dojo. It's been a fun learning
   experience so far!
