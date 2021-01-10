@@ -3,7 +3,7 @@ template: post
 title: Creating a Goal Setting/Personal Challenge System
 slug: creating-goal-setting-personal-challenge-system
 socialImage: /media/markus-winkler-lnzuok1gxru-unsplash.jpg
-draft: false
+draft: true
 date: 2020-10-10T22:47:54.361Z
 description: I've been wondering about how to create a challenge and force
   myself to grow beyond who I am now while completing the Launch School core
